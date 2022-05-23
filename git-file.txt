@@ -2,11 +2,10 @@
 
 
 Welcome to
-OLIVER'S PROGRAMS FOR WFG
-Beginning for the 2021 tax year
  the registration fee for the LLQP 
-Through Oliver is eligible for the Federal and 
-Ontario training tax credits. 
+
+PRIME DELETE ---
+
 Adding new line
 
 
@@ -15,5 +14,7 @@ Adding new lines 2
 
 Doing more of git
 Learn git this holiday
+
+TRYING TO ADD MORE TEXT TO WHAT WE HAVE EARLIER
 
 
